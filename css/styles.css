@@ -101,7 +101,7 @@ hr {
   margin: 0 auto;
 }
 .header-content a {
-  margin: 10%;
+  margin: 10px;
   text-decoration: none;
   font-weight: bold;
 }
