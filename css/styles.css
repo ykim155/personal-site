@@ -49,7 +49,6 @@ hr {
 .mountain {
   position: absolute;
   bottom: 0;
-  width: 700px;
 }
 .mountain-hidden {
   visibility: hidden;
